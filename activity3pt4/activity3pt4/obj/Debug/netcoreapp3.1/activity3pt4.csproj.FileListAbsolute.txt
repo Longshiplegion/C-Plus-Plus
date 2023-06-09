@@ -1,0 +1,14 @@
+C:\Users\atang\source\repos\activity3pt4\activity3pt4\bin\Debug\netcoreapp3.1\activity3pt4.exe
+C:\Users\atang\source\repos\activity3pt4\activity3pt4\bin\Debug\netcoreapp3.1\activity3pt4.deps.json
+C:\Users\atang\source\repos\activity3pt4\activity3pt4\bin\Debug\netcoreapp3.1\activity3pt4.runtimeconfig.json
+C:\Users\atang\source\repos\activity3pt4\activity3pt4\bin\Debug\netcoreapp3.1\activity3pt4.runtimeconfig.dev.json
+C:\Users\atang\source\repos\activity3pt4\activity3pt4\bin\Debug\netcoreapp3.1\activity3pt4.dll
+C:\Users\atang\source\repos\activity3pt4\activity3pt4\bin\Debug\netcoreapp3.1\activity3pt4.pdb
+C:\Users\atang\source\repos\activity3pt4\activity3pt4\obj\Debug\netcoreapp3.1\activity3pt4.csproj.AssemblyReference.cache
+C:\Users\atang\source\repos\activity3pt4\activity3pt4\obj\Debug\netcoreapp3.1\activity3pt4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atang\source\repos\activity3pt4\activity3pt4\obj\Debug\netcoreapp3.1\activity3pt4.AssemblyInfoInputs.cache
+C:\Users\atang\source\repos\activity3pt4\activity3pt4\obj\Debug\netcoreapp3.1\activity3pt4.AssemblyInfo.cs
+C:\Users\atang\source\repos\activity3pt4\activity3pt4\obj\Debug\netcoreapp3.1\activity3pt4.csproj.CoreCompileInputs.cache
+C:\Users\atang\source\repos\activity3pt4\activity3pt4\obj\Debug\netcoreapp3.1\activity3pt4.dll
+C:\Users\atang\source\repos\activity3pt4\activity3pt4\obj\Debug\netcoreapp3.1\activity3pt4.pdb
+C:\Users\atang\source\repos\activity3pt4\activity3pt4\obj\Debug\netcoreapp3.1\activity3pt4.genruntimeconfig.cache

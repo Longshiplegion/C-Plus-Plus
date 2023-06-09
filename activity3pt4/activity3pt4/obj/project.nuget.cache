@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GUQ1Pu1EWAcFrHNO0iR+AsZLAMuFpOHgyRvWgEJSMjJAICxv07v+SkDHklpgh11vL9jipLEgHLVZcodg51VK/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\atang\\source\\repos\\activity3pt4\\activity3pt4\\activity3pt4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

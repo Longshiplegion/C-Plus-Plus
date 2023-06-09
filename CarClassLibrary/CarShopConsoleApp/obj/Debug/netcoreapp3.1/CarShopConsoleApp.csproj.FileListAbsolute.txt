@@ -1,0 +1,17 @@
+C:\Users\atang\source\repos\CarClassLibrary\CarShopConsoleApp\bin\Debug\netcoreapp3.1\CarShopConsoleApp.exe
+C:\Users\atang\source\repos\CarClassLibrary\CarShopConsoleApp\bin\Debug\netcoreapp3.1\CarShopConsoleApp.deps.json
+C:\Users\atang\source\repos\CarClassLibrary\CarShopConsoleApp\bin\Debug\netcoreapp3.1\CarShopConsoleApp.runtimeconfig.json
+C:\Users\atang\source\repos\CarClassLibrary\CarShopConsoleApp\bin\Debug\netcoreapp3.1\CarShopConsoleApp.runtimeconfig.dev.json
+C:\Users\atang\source\repos\CarClassLibrary\CarShopConsoleApp\bin\Debug\netcoreapp3.1\CarShopConsoleApp.dll
+C:\Users\atang\source\repos\CarClassLibrary\CarShopConsoleApp\bin\Debug\netcoreapp3.1\CarShopConsoleApp.pdb
+C:\Users\atang\source\repos\CarClassLibrary\CarShopConsoleApp\bin\Debug\netcoreapp3.1\CarClassLibrary.dll
+C:\Users\atang\source\repos\CarClassLibrary\CarShopConsoleApp\bin\Debug\netcoreapp3.1\CarClassLibrary.pdb
+C:\Users\atang\source\repos\CarClassLibrary\CarShopConsoleApp\obj\Debug\netcoreapp3.1\CarShopConsoleApp.csproj.AssemblyReference.cache
+C:\Users\atang\source\repos\CarClassLibrary\CarShopConsoleApp\obj\Debug\netcoreapp3.1\CarShopConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atang\source\repos\CarClassLibrary\CarShopConsoleApp\obj\Debug\netcoreapp3.1\CarShopConsoleApp.AssemblyInfoInputs.cache
+C:\Users\atang\source\repos\CarClassLibrary\CarShopConsoleApp\obj\Debug\netcoreapp3.1\CarShopConsoleApp.AssemblyInfo.cs
+C:\Users\atang\source\repos\CarClassLibrary\CarShopConsoleApp\obj\Debug\netcoreapp3.1\CarShopConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\atang\source\repos\CarClassLibrary\CarShopConsoleApp\obj\Debug\netcoreapp3.1\CarShopConsoleApp.csproj.CopyComplete
+C:\Users\atang\source\repos\CarClassLibrary\CarShopConsoleApp\obj\Debug\netcoreapp3.1\CarShopConsoleApp.dll
+C:\Users\atang\source\repos\CarClassLibrary\CarShopConsoleApp\obj\Debug\netcoreapp3.1\CarShopConsoleApp.pdb
+C:\Users\atang\source\repos\CarClassLibrary\CarShopConsoleApp\obj\Debug\netcoreapp3.1\CarShopConsoleApp.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PrujBwQYT4z3YADJlXsBtjPO7W41f3yd2Rb+tB1Y6Kb9jHFbVY99Yl2/JGzRQKA0ZFjLsl2PRi7ptVRmph5LSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\atang\\source\\repos\\CarClassLibrary\\CarShopConsoleApp\\CarShopConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
