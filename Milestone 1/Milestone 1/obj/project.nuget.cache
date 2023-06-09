@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+KCPZUyVCjWLoTWB7D2Rkdwp2RKJT1EFNoo3BjvXoZi2L8NCSBs/V0U6l3zOU82Rg38/GUDqAJ8BOqQd6ZGLew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\atang\\source\\repos\\Milestone 1\\Milestone 1\\Milestone 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

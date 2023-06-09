@@ -1,0 +1,13 @@
+C:\Users\atang\source\repos\Milestone2\Milestone2\bin\Debug\netcoreapp3.1\Milestone2.exe
+C:\Users\atang\source\repos\Milestone2\Milestone2\bin\Debug\netcoreapp3.1\Milestone2.deps.json
+C:\Users\atang\source\repos\Milestone2\Milestone2\bin\Debug\netcoreapp3.1\Milestone2.runtimeconfig.json
+C:\Users\atang\source\repos\Milestone2\Milestone2\bin\Debug\netcoreapp3.1\Milestone2.runtimeconfig.dev.json
+C:\Users\atang\source\repos\Milestone2\Milestone2\bin\Debug\netcoreapp3.1\Milestone2.dll
+C:\Users\atang\source\repos\Milestone2\Milestone2\bin\Debug\netcoreapp3.1\Milestone2.pdb
+C:\Users\atang\source\repos\Milestone2\Milestone2\obj\Debug\netcoreapp3.1\Milestone2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atang\source\repos\Milestone2\Milestone2\obj\Debug\netcoreapp3.1\Milestone2.AssemblyInfoInputs.cache
+C:\Users\atang\source\repos\Milestone2\Milestone2\obj\Debug\netcoreapp3.1\Milestone2.AssemblyInfo.cs
+C:\Users\atang\source\repos\Milestone2\Milestone2\obj\Debug\netcoreapp3.1\Milestone2.csproj.CoreCompileInputs.cache
+C:\Users\atang\source\repos\Milestone2\Milestone2\obj\Debug\netcoreapp3.1\Milestone2.dll
+C:\Users\atang\source\repos\Milestone2\Milestone2\obj\Debug\netcoreapp3.1\Milestone2.pdb
+C:\Users\atang\source\repos\Milestone2\Milestone2\obj\Debug\netcoreapp3.1\Milestone2.genruntimeconfig.cache
