@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "Milestone3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Milestone3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Milestone3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Milestone3/1.0.0": {
+      "type": "project",
+      "path": "../../Milestone3/Milestone3/Milestone3.csproj",
+      "msbuildProject": "../../Milestone3/Milestone3/Milestone3.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Milestone3 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\atang\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\atang\\source\\repos\\Milestone6\\Milestone5\\Milestone5\\Milestone5.csproj",
+      "projectName": "Milestone5",
+      "projectPath": "C:\\Users\\atang\\source\\repos\\Milestone6\\Milestone5\\Milestone5\\Milestone5.csproj",
+      "packagesPath": "C:\\Users\\atang\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\atang\\source\\repos\\Milestone6\\Milestone5\\Milestone5\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\atang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\atang\\source\\repos\\Milestone6\\Milestone3\\Milestone3\\Milestone3.csproj": {
+              "projectPath": "C:\\Users\\atang\\source\\repos\\Milestone6\\Milestone3\\Milestone3\\Milestone3.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Milestone5/1.0.0": {
+        "dependencies": {
+          "Milestone3": "1.0.0"
+        },
+        "runtime": {
+          "Milestone5.dll": {}
+        }
+      },
+      "Milestone3/1.0.0": {
+        "runtime": {
+          "Milestone3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Milestone5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Milestone3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
