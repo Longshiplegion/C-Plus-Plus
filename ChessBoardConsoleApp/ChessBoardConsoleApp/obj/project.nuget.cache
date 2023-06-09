@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KEZ2mDhK3HN6fGTY9zVWKOEbIipo6YsPyiwfIyhvejcgYImKs9q+s+4D7m0JLH8AqKHRdH1O0C1yAzXatSxdng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\atang\\source\\repos\\ChessBoardConsoleApp\\ChessBoardConsoleApp\\ChessBoardConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
