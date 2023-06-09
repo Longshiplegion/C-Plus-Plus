@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6O7IcD4iUxjce80bwB0mgRz/uvg01Ag+b/c1mkuF2L5C7CbpGxyiuHnjElvNEQLucLCMrE4gccJx62d+dhNDJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\atang\\source\\repos\\CarStoreGUI\\CarStoreGUI\\CarStoreGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
