@@ -1,0 +1,17 @@
+C:\Users\atang\source\repos\HeroMaker1\HeroMaker1\obj\Debug\netcoreapp3.1\HeroMaker1.csproj.AssemblyReference.cache
+C:\Users\atang\source\repos\HeroMaker1\HeroMaker1\obj\Debug\netcoreapp3.1\HeroMaker1.Form1.resources
+C:\Users\atang\source\repos\HeroMaker1\HeroMaker1\obj\Debug\netcoreapp3.1\HeroMaker1.csproj.GenerateResource.cache
+C:\Users\atang\source\repos\HeroMaker1\HeroMaker1\obj\Debug\netcoreapp3.1\HeroMaker1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atang\source\repos\HeroMaker1\HeroMaker1\obj\Debug\netcoreapp3.1\HeroMaker1.AssemblyInfoInputs.cache
+C:\Users\atang\source\repos\HeroMaker1\HeroMaker1\obj\Debug\netcoreapp3.1\HeroMaker1.AssemblyInfo.cs
+C:\Users\atang\source\repos\HeroMaker1\HeroMaker1\obj\Debug\netcoreapp3.1\HeroMaker1.csproj.CoreCompileInputs.cache
+C:\Users\atang\source\repos\HeroMaker1\HeroMaker1\bin\Debug\netcoreapp3.1\HeroMaker1.exe
+C:\Users\atang\source\repos\HeroMaker1\HeroMaker1\bin\Debug\netcoreapp3.1\HeroMaker1.deps.json
+C:\Users\atang\source\repos\HeroMaker1\HeroMaker1\bin\Debug\netcoreapp3.1\HeroMaker1.runtimeconfig.json
+C:\Users\atang\source\repos\HeroMaker1\HeroMaker1\bin\Debug\netcoreapp3.1\HeroMaker1.runtimeconfig.dev.json
+C:\Users\atang\source\repos\HeroMaker1\HeroMaker1\bin\Debug\netcoreapp3.1\HeroMaker1.dll
+C:\Users\atang\source\repos\HeroMaker1\HeroMaker1\bin\Debug\netcoreapp3.1\HeroMaker1.pdb
+C:\Users\atang\source\repos\HeroMaker1\HeroMaker1\obj\Debug\netcoreapp3.1\HeroMaker1.dll
+C:\Users\atang\source\repos\HeroMaker1\HeroMaker1\obj\Debug\netcoreapp3.1\HeroMaker1.pdb
+C:\Users\atang\source\repos\HeroMaker1\HeroMaker1\obj\Debug\netcoreapp3.1\HeroMaker1.genruntimeconfig.cache
+C:\Users\atang\source\repos\HeroMaker1\HeroMaker1\obj\Debug\netcoreapp3.1\HeroMaker1.SuperheroListForm.resources

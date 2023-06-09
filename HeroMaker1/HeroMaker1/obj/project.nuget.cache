@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aqS1nUvsih2uBngzK7dwUn1t6/YC4cMjJLEf0CJogOeaZqCTjMQjDin3ovUBndn9cjRE4Kr7H6Da3RFAJUnw4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\atang\\source\\repos\\HeroMaker1\\HeroMaker1\\HeroMaker1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
