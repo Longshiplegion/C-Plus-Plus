@@ -1,0 +1,14 @@
+C:\Users\atang\source\repos\Activity2Animal\Activity2Animal\bin\Debug\netcoreapp3.1\Activity2Animal.exe
+C:\Users\atang\source\repos\Activity2Animal\Activity2Animal\bin\Debug\netcoreapp3.1\Activity2Animal.deps.json
+C:\Users\atang\source\repos\Activity2Animal\Activity2Animal\bin\Debug\netcoreapp3.1\Activity2Animal.runtimeconfig.json
+C:\Users\atang\source\repos\Activity2Animal\Activity2Animal\bin\Debug\netcoreapp3.1\Activity2Animal.runtimeconfig.dev.json
+C:\Users\atang\source\repos\Activity2Animal\Activity2Animal\bin\Debug\netcoreapp3.1\Activity2Animal.dll
+C:\Users\atang\source\repos\Activity2Animal\Activity2Animal\bin\Debug\netcoreapp3.1\Activity2Animal.pdb
+C:\Users\atang\source\repos\Activity2Animal\Activity2Animal\obj\Debug\netcoreapp3.1\Activity2Animal.csproj.AssemblyReference.cache
+C:\Users\atang\source\repos\Activity2Animal\Activity2Animal\obj\Debug\netcoreapp3.1\Activity2Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atang\source\repos\Activity2Animal\Activity2Animal\obj\Debug\netcoreapp3.1\Activity2Animal.AssemblyInfoInputs.cache
+C:\Users\atang\source\repos\Activity2Animal\Activity2Animal\obj\Debug\netcoreapp3.1\Activity2Animal.AssemblyInfo.cs
+C:\Users\atang\source\repos\Activity2Animal\Activity2Animal\obj\Debug\netcoreapp3.1\Activity2Animal.csproj.CoreCompileInputs.cache
+C:\Users\atang\source\repos\Activity2Animal\Activity2Animal\obj\Debug\netcoreapp3.1\Activity2Animal.dll
+C:\Users\atang\source\repos\Activity2Animal\Activity2Animal\obj\Debug\netcoreapp3.1\Activity2Animal.pdb
+C:\Users\atang\source\repos\Activity2Animal\Activity2Animal\obj\Debug\netcoreapp3.1\Activity2Animal.genruntimeconfig.cache

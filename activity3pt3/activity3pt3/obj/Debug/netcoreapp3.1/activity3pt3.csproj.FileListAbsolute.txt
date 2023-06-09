@@ -1,0 +1,13 @@
+C:\Users\atang\source\repos\activity3pt3\activity3pt3\bin\Debug\netcoreapp3.1\activity3pt3.exe
+C:\Users\atang\source\repos\activity3pt3\activity3pt3\bin\Debug\netcoreapp3.1\activity3pt3.deps.json
+C:\Users\atang\source\repos\activity3pt3\activity3pt3\bin\Debug\netcoreapp3.1\activity3pt3.runtimeconfig.json
+C:\Users\atang\source\repos\activity3pt3\activity3pt3\bin\Debug\netcoreapp3.1\activity3pt3.runtimeconfig.dev.json
+C:\Users\atang\source\repos\activity3pt3\activity3pt3\bin\Debug\netcoreapp3.1\activity3pt3.dll
+C:\Users\atang\source\repos\activity3pt3\activity3pt3\bin\Debug\netcoreapp3.1\activity3pt3.pdb
+C:\Users\atang\source\repos\activity3pt3\activity3pt3\obj\Debug\netcoreapp3.1\activity3pt3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atang\source\repos\activity3pt3\activity3pt3\obj\Debug\netcoreapp3.1\activity3pt3.AssemblyInfoInputs.cache
+C:\Users\atang\source\repos\activity3pt3\activity3pt3\obj\Debug\netcoreapp3.1\activity3pt3.AssemblyInfo.cs
+C:\Users\atang\source\repos\activity3pt3\activity3pt3\obj\Debug\netcoreapp3.1\activity3pt3.csproj.CoreCompileInputs.cache
+C:\Users\atang\source\repos\activity3pt3\activity3pt3\obj\Debug\netcoreapp3.1\activity3pt3.dll
+C:\Users\atang\source\repos\activity3pt3\activity3pt3\obj\Debug\netcoreapp3.1\activity3pt3.pdb
+C:\Users\atang\source\repos\activity3pt3\activity3pt3\obj\Debug\netcoreapp3.1\activity3pt3.genruntimeconfig.cache

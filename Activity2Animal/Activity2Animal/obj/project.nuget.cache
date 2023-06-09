@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FXDd+XjY39cEm7Xg49FsTZDkstbK3Z3SLzM8zT68QYcxTbpShHKJZUF+7h781JdT/Zc87aBIP0aJY7hhs6SSHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\atang\\source\\repos\\Activity2Animal\\Activity2Animal\\Activity2Animal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
