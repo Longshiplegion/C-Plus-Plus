@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZQldQIM5yWYP2J88pMlVDfnz1O6o+njEWgZJ8yJPNM3LFjCskbXSWOXGqavxhzI2FkkbPbZ5YTqa+KewE3vnMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\atang\\source\\repos\\ChessBoardGuiApp\\ChessBoardGuiApp\\ChessBoardGuiApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
